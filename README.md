@@ -32,7 +32,7 @@
 
 ### Desktop: 
 
-<img alt="tesla-clone-mobile" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1616459943/TeslaClone/TeslaCloneDesktop_h1wvwr.gif">
+<img alt="tesla-clone-mobile" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1616500958/TeslaClone/TeslaCloneDesktop_iqy7z4.gif">
 
 ### Mobile: 
 
