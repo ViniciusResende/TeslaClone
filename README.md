@@ -12,8 +12,7 @@
   <a href="#art-layout-of-the-application">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-launching-the-app">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#raising_hand_man-developer">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trophy-acknowledgment">Acknowledgment</a> 
+  <a href="#raising_hand_man-developer">Developer</a>
 </p>
 
 </br>
